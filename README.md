@@ -1,5 +1,3 @@
 # **MallCostumersAnalysis**
 
-  ## Customers Segmentation and Clustering
-
-    ### Using Pandas, Seaborn and Kmeans
+  ## Customers Segmentation and Clustering using Pandas, Seaborn and Kmeans
